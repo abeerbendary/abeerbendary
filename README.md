@@ -13,4 +13,4 @@ Senior Android engineer. For the last 3.5 years I have built Android apps that r
 
 Most of my work lives in private company repositories.
 
-[LinkedIn](https://www.linkedin.com/in/abeer-said-106a51151)
+[LinkedIn](https://www.linkedin.com/in/abeer-said-bendary-106a51151)
