@@ -11,6 +11,6 @@ Senior Android engineer. For the last 3.5 years I have built Android apps that r
 
 **Tech:** Java · Kotlin · C++/JNI · TensorFlow Lite · ExoPlayer · Room · RabbitMQ · AWS
 
-Most of my work lives in private company repositories. Currently building an open-source Quran circles app in Kotlin and Jetpack Compose.
+Most of my work lives in private company repositories.
 
 [LinkedIn](https://www.linkedin.com/in/abeer-said-106a51151)
